@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning latin.
 - 💞️ I’m looking to collaborate on game development.
 - 😄 Pronouns: Your Highness
-- ⚡ Fun fact: 
+- ⚡ Fun fact: E = mc²
 
 <!---
 D0nPeter/D0nPeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
